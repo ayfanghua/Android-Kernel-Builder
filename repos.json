@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/xiaomi-sm7225/android_kernel_xiaomi_gauguin",
-      "branch": "lineage-20",
+      "repo": "https://github.com/SlackerState/android_kernel_xiaomi_sm6150",
+      "branch": "phoenix-r-oss",
       "device": "phoenix_ztc1997"
     },
     "isConfiginvendor":true,
@@ -35,7 +35,7 @@
       "DTC_EXT":"dtc"
     }
   },
- {
+  {
     "kernelSource": {
       "name": "redcliff",
       "repo": "https://github.com/SlackerState/android_kernel_xiaomi_sm6150",
