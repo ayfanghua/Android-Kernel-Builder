@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/SlackerState/android_kernel_xiaomi_sm6150",
-      "branch": "phoenix-r-oss",
-      "device": "phoenix_ztc1997"
+      "repo": "https://github.com/jaymistry258/kernel_xiaomi_phoenix/tree/alza-su",
+      "branch": "alza-su",
+      "device": "trinket-perf"
     },
     "isConfiginvendor":true,
     "withKernelSU": true,
