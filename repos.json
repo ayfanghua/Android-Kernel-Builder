@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/jaymistry258/kernel_xiaomi_phoenix/tree/alza-su",
+      "repo": "https://github.com/jaymistry258/kernel_xiaomi_phoenix",
       "branch": "alza-su",
       "device": "trinket-perf"
     },
