@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sm6150",
-      "branch": "lineage-20",
+      "repo": "https://github.com/vantoman/kernel_xiaomi_sm6150",
+      "branch": "13",
       "device": "davinci"
     },
     "isConfiginvendor":true,
